@@ -1,0 +1,13 @@
+body{
+    background-image: url("../img/building.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.btn {background-color: #abcd02; color: grey; margin-bottom: 25px;}
+.btn:hover{background-color: #849e02;}
+#out{background-color: #cc3b28;}
+a{font-size: 12px; color: aliceblue;}
+li{margin: 10px;}
+
+.right{background-color: #abcd02; width: 200px; height: auto; margin: 20px; border-radius: 10px;}

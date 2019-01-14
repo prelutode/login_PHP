@@ -1,0 +1,27 @@
+body{
+    background-image: url("../img/building.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.container{
+    margin: 50px auto;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    height: auto;
+    background-color: #e5eaefe6;
+    border-radius: 5px;
+}
+
+h4, svg{
+    color: #abcd02;
+    display: inline;
+}
+img{position: relative;}
+.form-group{width: 450px;margin-top: 20px;}
+label{color: grey; font-size: 16px;}
+input{margin-bottom: 5px;}
+#button{text-align: right;}
+.btn{background-color: #abcd02; color: grey; margin-bottom: 25px;}
+.btn:hover{background-color: #849e02;}
+a{font-size: 12px;}

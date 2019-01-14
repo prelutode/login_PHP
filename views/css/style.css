@@ -1,0 +1,15 @@
+ 
+body{
+    background-image: url("../img/building.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: aliceblue;
+}
+a{color: aliceblue;}
+.btn:hover{background-color: #849e02;}
+a:hover{color: #abcd02;}
+#brand{text-align: center;}
+button, span, li {font-size: 13px; margin: 4px; color: white;}
+.btn { font-size:12px; background-color: #abcd02;}
+#header{position: sticky; top:0;}
+/*.navbar{background-color: white; background-size: 100%}*/
